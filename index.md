@@ -3,9 +3,9 @@
 
 ***
 
-* [Visualizing System Metrics with Matplotlib & Pandas](https://github.com/realBjornRoden/pandas/)
-
-* Visualizing System Metrics with KSH, AWK & Gnuplot
+* [Visualizing System Metrics w/Matplotlib & Pandas](https://github.com/realBjornRoden/pandas/README.md)
+* [Visualizing System Metrics - w/Gnuplot & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/tagplot/README.md)
+* Visualizing System Metrics - w/Graphviz & POSIX Shell
 
 * Correlating System Metrics as Merged Verticals with Pandas & NumPy
 
