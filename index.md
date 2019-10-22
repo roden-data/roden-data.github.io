@@ -4,8 +4,8 @@
 ***
 
 * [Digesting Tripit.com traveler trip data to analyze - w/API, Python, XML & POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/tripit/README.md)
-* [Plotting timeseries and descriptive statistics using basic POSIX Shell and Gnuplot](https://github.com/realBjornRoden/unix/tree/master/tagplot/README.md)
 * [Visualizing System Metrics - w/Matplotlib, Pandas & Python](https://github.com/realBjornRoden/unix/blob/master/pandas/README.md)
+* [Plotting timeseries and descriptive statistics using basic POSIX Shell and Gnuplot](https://github.com/realBjornRoden/unix/tree/master/tagplot/README.md)
 * [Digesting output from shared ethernet adapter details with AWK and generating multi-node graph with DOT](https://github.com/realBjornRoden/unix/tree/master/parsein/sea/README.md)
 * [Digesting output from virtual fibre channel connection details with AWK and generating multi-node graph with DOT](https://github.com/realBjornRoden/unix/tree/master/parsein/vfc/README.md)
 
