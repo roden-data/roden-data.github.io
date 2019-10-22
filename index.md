@@ -3,10 +3,12 @@
 
 ***
 
-* [Visualizing System Metrics w/Matplotlib & Pandas](https://github.com/realBjornRoden/pandas)
-* [Visualizing System Metrics - w/Gnuplot & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/tagplot/README.md)
-* [Visualizing System Metrics - w/DOT, AWK & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/parsein/README.md)
 * [Digesting Tripit.com traveler trip data to analyze - w/API, Python, XML & POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/tripit/README.md)
+* [Visualizing System Metrics IBM PowerVM SEA - w/DOT, AWK & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/parsein/sea/README.md)
+* [Visualizing System Metrics IBM PowerVM VFC - w/DOT, AWK & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/parsein/vfc/README.md)
+* [Visualizing System Metrics RUNQ - w/Gnuplot & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/tagplot/README.md)
+* [Visualizing System Metrics RUNQ - w/Matplotlib, Pandas & Python](https://github.com/realBjornRoden/unix/blob/master/pandas/README.md)
+
 
 
 * Correlating System Metrics as Merged Verticals with Pandas & NumPy
