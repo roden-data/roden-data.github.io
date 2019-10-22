@@ -5,7 +5,7 @@
 
 * [Visualizing System Metrics w/Matplotlib & Pandas](https://github.com/realBjornRoden/pandas)
 * [Visualizing System Metrics - w/Gnuplot & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/tagplot/README.md)
-* Visualizing System Metrics - w/Graphviz & POSIX Shell
+* [Visualizing System Metrics - w/DOT, AWK & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/parsein/README.md)
 * [Digesting Tripit.com traveler trip data to analyze - w/API, Python, XML & POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/tripit/README.md)
 
 
